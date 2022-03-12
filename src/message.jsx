@@ -1,0 +1,1 @@
+export const COPY_SUCCESS = 'La contraseña fue guardada en el portapapeles '
